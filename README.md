@@ -384,4 +384,4 @@ AIOStreams and its developer do not host, store, or distribute any content that 
 - [MediaFlow](https://github.com/Mhdzumair/mediaflow-proxy) for MediaFlow Proxy which is used in this addon to proxy your streams
 - Issue templates were stolen from [5rahim/seanime](https://github.com/5rahim/seanime) (You should really try out this app)
 
-alf
+afkr
